@@ -39,3 +39,14 @@ def my_function2():
 my_function2()#calling the function to modify the global variable
 print(n) #printing the modified global variable 
 
+#Data types in Python: Python has several built-in data types that are used to store different types of data. Here are some of the most common data types in Python:
+"""Text Type:	str
+Numeric Types:	int, float, complex
+Sequence Types:	list, tuple, range
+Mapping Type:	dict
+Set Types:	set, frozenset
+Boolean Type:	bool
+Binary Types:	bytes, bytearray, memoryview
+None Type:	NoneType
+"""
+
